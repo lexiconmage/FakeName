@@ -16,7 +16,7 @@
     "DownloadLinkUpdate": "https://github.com/lexiconmage/FakeName/releases/download/0.1.0/latest.zip",
     "AssemblyVersion": "1.7.1.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "Changelog": "updated for 7.2",
     "TestingAssemblyVersion": "1.7.1.0",
     "DownloadLinkTesting": "https://github.com/lexiconmage/FakeName/releases/download/0.1.0/latest.zip",
