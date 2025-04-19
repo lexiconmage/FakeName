@@ -12,6 +12,5 @@
         "name",
         "ui"
     ],
-    "LoadPriority": 128,
-    "DalamudApiLevel": 12
+    "LoadPriority": 128
 }

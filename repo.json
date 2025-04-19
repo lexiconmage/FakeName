@@ -12,14 +12,14 @@
     "RepoUrl": "https://github.com/lexiconmage/FakeName",
     "DownloadCount": 759,
     "LastUpdated": 1713263280000,
-    "DownloadLinkInstall": "https://github.com/lexiconmage/FakeName/releases/download/0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/lexiconmage/FakeName/releases/download/0.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/lexiconmage/FakeName/releases/download/0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lexiconmage/FakeName/releases/download/0.1.1/latest.zip",
     "AssemblyVersion": "1.7.1.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "Changelog": "updated for 7.2",
     "TestingAssemblyVersion": "1.7.1.0",
-    "DownloadLinkTesting": "https://github.com/lexiconmage/FakeName/releases/download/0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/lexiconmage/FakeName/releases/download/0.1.1/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/lexiconmage/FakeName/main/icon.png"
   }
 ]
