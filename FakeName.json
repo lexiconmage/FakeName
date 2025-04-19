@@ -6,7 +6,7 @@
     "InternalName": "FakeName",
     "ApplicableVersion": "any",
     "repoUrl": "https://github.com/lexiconmage/FakeName",
-    "IconUrl": "https://raw.githubusercontent.com/lexiconmage/FakeName/master/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/lexiconmage/FakeName/main/icon.png",
     "Changelog": "",
     "Tags": [
         "name",
@@ -15,4 +15,3 @@
     "LoadPriority": 128,
     "DalamudApiLevel": 12
 }
-
