@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommons", "ECommons\ECommons\ECommons.csproj", "{84867740-2782-4BBB-B7C7-2ADF83280E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtterGui", "OtterGui\OtterGui.csproj", "{7881C77A-6499-4607-B692-C32A0985ADB8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeName", "FakeName\FakeName.csproj", "{842B2DC0-7DAB-CFC2-876B-AF127ECBAAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtterGui", "OtterGui\OtterGui.csproj", "{9EC71A1C-3348-BA01-85FA-8361B6EB8537}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{84867740-2782-4BBB-B7C7-2ADF83280E81}.Debug|x64.Build.0 = Debug|x64
 		{84867740-2782-4BBB-B7C7-2ADF83280E81}.Release|x64.ActiveCfg = Release|x64
 		{84867740-2782-4BBB-B7C7-2ADF83280E81}.Release|x64.Build.0 = Release|x64
-		{7881C77A-6499-4607-B692-C32A0985ADB8}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{7881C77A-6499-4607-B692-C32A0985ADB8}.Debug|x64.Build.0 = Debug|Any CPU
-		{7881C77A-6499-4607-B692-C32A0985ADB8}.Release|x64.ActiveCfg = Release|Any CPU
-		{7881C77A-6499-4607-B692-C32A0985ADB8}.Release|x64.Build.0 = Release|Any CPU
 		{842B2DC0-7DAB-CFC2-876B-AF127ECBAAE6}.Debug|x64.ActiveCfg = Debug|x64
 		{842B2DC0-7DAB-CFC2-876B-AF127ECBAAE6}.Debug|x64.Build.0 = Debug|x64
 		{842B2DC0-7DAB-CFC2-876B-AF127ECBAAE6}.Release|x64.ActiveCfg = Release|x64
 		{842B2DC0-7DAB-CFC2-876B-AF127ECBAAE6}.Release|x64.Build.0 = Release|x64
+		{9EC71A1C-3348-BA01-85FA-8361B6EB8537}.Debug|x64.ActiveCfg = Debug|x64
+		{9EC71A1C-3348-BA01-85FA-8361B6EB8537}.Debug|x64.Build.0 = Debug|x64
+		{9EC71A1C-3348-BA01-85FA-8361B6EB8537}.Release|x64.ActiveCfg = Release|x64
+		{9EC71A1C-3348-BA01-85FA-8361B6EB8537}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
